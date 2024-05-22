@@ -299,10 +299,8 @@ margin-left: 405px;
 margin-top: 590px;
 }
 .box-img-01{
-  width: 920px;
-  height: 52px;
-  display: flex;
-  justify-content: space-between;
-  background: #000;
+  width: 1110px;
+  height: 207px;
+  position: absolute;
 }
 /*# sourceMappingURL=style.css.map */
